@@ -31,6 +31,8 @@ Moreover, the plugin is designed with ease of use in mind, making it accessible 
 [3D Printing](https://github.com/sourceduty/3D_Printing)
 <br>
 [3D Collaboration](https://github.com/sourceduty/3D_Collaboration)
+<br>
+[3D Model Analysis](https://github.com/sourceduty/3D_Model_Analysis)
 
 ***
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
